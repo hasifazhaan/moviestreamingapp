@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Binger", "login_page\Binger.vbproj", "{58EFDE7B-4D28-49A9-9A67-AC5361DA286A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58EFDE7B-4D28-49A9-9A67-AC5361DA286A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58EFDE7B-4D28-49A9-9A67-AC5361DA286A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58EFDE7B-4D28-49A9-9A67-AC5361DA286A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58EFDE7B-4D28-49A9-9A67-AC5361DA286A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75754C21-DC9E-4B7C-B01C-A55810A792B9}
+	EndGlobalSection
+EndGlobal

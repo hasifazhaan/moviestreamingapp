@@ -33,21 +33,24 @@ Info
 Settings
 ![settings](https://user-images.githubusercontent.com/61867787/137751504-9fbb17e6-ee72-49c0-9954-cf97e9841489.PNG)
 History
-![history](https://user-images.githubusercontent.com/61867787/137751512-1776d197-3eb6-4e9d-bc8d-714a3f41cc0![addmovie](https://user-images.githubusercontent.com/61867787/137751681-d1ac1f5f-62c9-41ef-8d73-36dbb85fbdae.PNG)
-9.PNG)
+
+![history](https://user-images.githubusercontent.com/61867787/137753173-87cb2ba1-108c-440b-8b20-490779386fc7.PNG)
+
+
+
+
 Trending
 ![trending](https://user-images.githubusercontent.com/61867787/137751519-1b07aaea-d27d-464c-a809-3a15907475b9.PNG)
 
 ## Admin side --
 
-add movie --
 
-![addmovie](https://user-images.githubuserconte![deletemovie](https://user-images.githubusercontent.com/61867787/137751769-11c1c866-2d9c-4df1-8b09-a033f5d13765.PNG)
 delete movie
 ![deletemovie](https://user-images.githubusercontent.com/61867787/137752597-84789cfd-c3fd-4882-ab36-b40f6034cead.PNG)
 
+Add Movie
 
-
+![addmovie](https://user-images.githubusercontent.com/61867787/137753036-b552bc38-2a05-4a8a-9e3a-f72e21d4a1c9.PNG)
 
 
 
